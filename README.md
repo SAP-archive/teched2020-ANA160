@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA160 - Experience Augmented Analytics with SAP Analytics Cloud
 
 ## Description
 
