@@ -13,7 +13,7 @@ Learn more about the latest enhancements to the augmented analytics features of 
 
 ## Exercises
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](exercises/ANA160_Script.pdf).
     
 
 ## How to obtain support
