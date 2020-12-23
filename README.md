@@ -1,5 +1,7 @@
 # ANA160 - Experience Augmented Analytics with SAP Analytics Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ana160)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ana160)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called Experience Augmented Analytics with SAP Analytics Cloud 
